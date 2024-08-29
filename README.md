@@ -1,5 +1,5 @@
 # se-day-2-git-and-github
-## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity? 
 Version control keeps your project organized, secure, and manageable, particularly when multiple people are involved. GitHub simplifies and enhances the use of version control.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Log in to GitHub, click "New" to start a repository, name it, choose visibility, optionally add a README, .gitignore, or license, and click "Create repository" to finish.
